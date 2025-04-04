@@ -40,18 +40,18 @@ In this setup, the CLI will connect to your locally running services — perfect
 
 ---
 
-## 📘 New Here?
+## 📘 Wish to learn more?
 
 Golem Base introduces a novel architectural model for decentralized data infrastructure — designed to be modular, Ethereum-native, and accessible across both Web2 and Web3.
 
-For a complete overview of our design principles, technical foundations, and broader vision:  
+For a complete overview:
 
 📄 **[Read the Litepaper (PDF)](https://golem-base.io/wp-content/uploads/2025/03/GolemBase-Litepaper.pdf)**
 
 It covers:
 - The structure and role of DB-Chains  
 - How Golem Base aligns with Ethereum Layer 2/3 philosophy  
-- Our approach to configurable permissioning, gas, and data availability  
+- Potential real-world use cases
 
 ---
 
@@ -68,6 +68,6 @@ If you're interested in decentralized infrastructure, Ethereum scalability, or a
 ---
 
 > Golem Base was born from a need inside Golem Network — and grew into its own thing.  
-> Built by an independent team to power the next era of decentralized data.
+> Built by an independent team committed to the idea that data autonomy should be the norm, not the exception
 
 📖 [Read About Golem Base's Origins](https://golem-base.io/docs/Golem-Origins.pdf)
